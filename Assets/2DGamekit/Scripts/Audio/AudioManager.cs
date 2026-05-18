@@ -31,7 +31,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private EventReference playerJump;
     [SerializeField] private EventReference playerLand;
     [SerializeField] private EventReference playerAttackMelee;
-    
+    [SerializeField] private EventReference playerAttackRanged;
     [SerializeField] private EventReference playerHurt;
     EventInstance playerFootstepInstance;
     EventInstance playerLandInstance;
@@ -223,11 +223,18 @@ public class AudioManager : MonoBehaviour
             Debug.LogWarning("Fmod event not found: playerAttackMelee");
             return;
         }
-        RuntimeManager.PlayOneShot(playerAttackMelee, transform.position);
+        RuntimeManager.PlayOneShot(playerAttackMelee);
     }
 
-	
-
+	public void PlayRanged()
+    { 
+        if (playerAttackRanged.IsNull)
+        {
+            Debug.LogWarning(message: "Fmod event not found");
+            return;
+        }
+        RuntimeManager.PlayOneShot(playerAttackRanged);
+    }
     public void PlayHurt()
     {
         if (playerHurt.IsNull)
