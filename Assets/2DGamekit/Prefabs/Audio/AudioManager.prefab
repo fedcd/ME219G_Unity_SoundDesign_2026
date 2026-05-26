@@ -312,18 +312,18 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1885756090
+      Data2: 1269897105
+      Data3: -186463060
+      Data4: -354053701
+    Path: event:/SFX_Footsteps/SFX_Footstep
   playerJump:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1341184828
+      Data2: 1117696770
+      Data3: 209788036
+      Data4: 1523112719
+    Path: event:/SFX_Jump2
   playerLand:
     Guid:
       Data1: 0
