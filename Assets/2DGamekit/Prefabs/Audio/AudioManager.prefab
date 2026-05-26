@@ -344,7 +344,7 @@ MonoBehaviour:
       Data2: 1125739112
       Data3: -1041901380
       Data4: -1033583283
-    Path: event:/New Event 2
+    Path: event:/SFX_Lazer_Attack_RNGD
   playerHurt:
     Guid:
       Data1: 0
