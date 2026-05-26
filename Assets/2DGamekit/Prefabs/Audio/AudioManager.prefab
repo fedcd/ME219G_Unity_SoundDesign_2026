@@ -323,7 +323,7 @@ MonoBehaviour:
       Data2: 1117696770
       Data3: 209788036
       Data4: 1523112719
-    Path: event:/SFX_Jump2
+    Path: event:/SFX_Jump
   playerLand:
     Guid:
       Data1: 0
