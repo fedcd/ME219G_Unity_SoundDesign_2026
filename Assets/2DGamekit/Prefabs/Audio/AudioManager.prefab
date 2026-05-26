@@ -340,11 +340,11 @@ MonoBehaviour:
     Path: 
   playerAttackRanged:
     Guid:
-      Data1: 1885756090
-      Data2: 1269897105
-      Data3: -186463060
-      Data4: -354053701
-    Path: event:/New Event
+      Data1: 329328856
+      Data2: 1125739112
+      Data3: -1041901380
+      Data4: -1033583283
+    Path: event:/New Event 2
   playerHurt:
     Guid:
       Data1: 0
