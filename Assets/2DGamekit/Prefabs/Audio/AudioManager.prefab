@@ -316,7 +316,7 @@ MonoBehaviour:
       Data2: 1269897105
       Data3: -186463060
       Data4: -354053701
-    Path: event:/SFX_Footsteps/SFX_Footstep
+    Path: event:/SFX_Player/SFX_Footstep
   playerJump:
     Guid:
       Data1: 1341184828
