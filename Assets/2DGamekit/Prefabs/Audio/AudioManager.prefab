@@ -417,11 +417,11 @@ MonoBehaviour:
     Path: 
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1667957824
+      Data2: 1280248730
+      Data3: -1906235488
+      Data4: 1949488969
+    Path: event:/SFX_Game_Start/SFX_Game_Starting
   enemyFootstep:
     Guid:
       Data1: 0
