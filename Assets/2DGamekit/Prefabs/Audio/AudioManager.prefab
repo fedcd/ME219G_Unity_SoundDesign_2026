@@ -323,7 +323,7 @@ MonoBehaviour:
       Data2: 1117696770
       Data3: 209788036
       Data4: 1523112719
-    Path: event:/SFX_Jump
+    Path: event:/SFX_Player/SFX_Jump
   playerLand:
     Guid:
       Data1: 0
@@ -344,7 +344,7 @@ MonoBehaviour:
       Data2: 1125739112
       Data3: -1041901380
       Data4: -1033583283
-    Path: event:/SFX_Lazer_Attack_RNGD
+    Path: event:/SFX_Player/SFX_Lazer_Attack_RNGD
   playerHurt:
     Guid:
       Data1: 0
