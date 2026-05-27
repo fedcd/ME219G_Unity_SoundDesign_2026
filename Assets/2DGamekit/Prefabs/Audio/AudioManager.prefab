@@ -333,11 +333,11 @@ MonoBehaviour:
     Path: event:/SFX_Player/SFX_Player_Land
   playerAttackMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 524197157
+      Data2: 1306980574
+      Data3: -219884403
+      Data4: 967875536
+    Path: event:/SFX_Player/SFX_Slashing
   playerAttackRanged:
     Guid:
       Data1: 329328856
