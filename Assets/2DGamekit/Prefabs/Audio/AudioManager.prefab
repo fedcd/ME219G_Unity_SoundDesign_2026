@@ -326,11 +326,11 @@ MonoBehaviour:
     Path: event:/SFX_Player/SFX_Jump
   playerLand:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 910400134
+      Data2: 1183081305
+      Data3: -233972561
+      Data4: 80765696
+    Path: event:/SFX_Player/SFX_Player_Land
   playerAttackMelee:
     Guid:
       Data1: 0
