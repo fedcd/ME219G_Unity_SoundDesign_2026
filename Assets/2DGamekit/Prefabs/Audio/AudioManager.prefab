@@ -375,11 +375,11 @@ MonoBehaviour:
     Path: 
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -487604515
+      Data2: 1269981770
+      Data3: -115647819
+      Data4: -66634698
+    Path: event:/SFX_Objects/SFX_Door_Opening
   pickupKey:
     Guid:
       Data1: 0
