@@ -382,11 +382,11 @@ MonoBehaviour:
     Path: event:/SFX_Objects/SFX_Door_Opening
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1143297404
+      Data2: 1123581449
+      Data3: -1419186034
+      Data4: -822556171
+    Path: event:/SFX_Objects/SFX_Finding_Key
   pressurePad:
     Guid:
       Data1: 0
