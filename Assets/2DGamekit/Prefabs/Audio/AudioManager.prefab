@@ -439,11 +439,11 @@ MonoBehaviour:
     Path: 
   doorOpen:
     Guid:
-      Data1: -487604515
-      Data2: 1269981770
-      Data3: -115647819
-      Data4: -66634698
-    Path: event:/SFX_Objects/SFX_Door_Opening
+      Data1: 1890889261
+      Data2: 1094903035
+      Data3: -296074080
+      Data4: -1040177155
+    Path: event:/SFX_Objects/Door_Opening
   pickupKey:
     Guid:
       Data1: -1143297404
