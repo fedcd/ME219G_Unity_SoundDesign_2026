@@ -411,11 +411,11 @@ MonoBehaviour:
     Path: event:/SFX_Player/SFX_Lazer_Attack_RNGD
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 704938099
+      Data2: 1228350682
+      Data3: 589400251
+      Data4: -719644710
+    Path: event:/SFX_Player/SFX_Player_Hurt
   wallDestroy:
     Guid:
       Data1: 0
