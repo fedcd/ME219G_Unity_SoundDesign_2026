@@ -509,11 +509,11 @@ MonoBehaviour:
     Path: 
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -2028211852
+      Data2: 1237177180
+      Data3: -1458986563
+      Data4: 843611685
+    Path: event:/SFX_Enemy/SFX_Enemy_Death 2
   stingerGameOver:
     Guid:
       Data1: 715162006
