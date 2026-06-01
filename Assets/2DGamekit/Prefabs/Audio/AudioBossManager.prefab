@@ -53,11 +53,11 @@ MonoBehaviour:
     Path: 
   bossLaserAttack:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -670145247
+      Data2: 1152803141
+      Data3: 377997989
+      Data4: 611817138
+    Path: event:/SFX_Boss/SFX_Boss_Lazer
   bossGrenadeAttack:
     Guid:
       Data1: 0
