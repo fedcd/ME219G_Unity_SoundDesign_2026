@@ -443,7 +443,7 @@ MonoBehaviour:
       Data2: 1094903035
       Data3: -296074080
       Data4: -1040177155
-    Path: event:/SFX_Objects/Door_Opening
+    Path: event:/SFX_Objects/SFX_Door_Opening
   pickupKey:
     Guid:
       Data1: -1143297404
@@ -471,7 +471,7 @@ MonoBehaviour:
       Data2: 1117307383
       Data3: -972616576
       Data4: -1171315710
-    Path: event:/SFX_Objects/Box_Pushing_Sound
+    Path: event:/SFX_Objects/SFX_Box_Pushing_Sound
   menuClick:
     Guid:
       Data1: -754423360
