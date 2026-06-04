@@ -418,11 +418,11 @@ MonoBehaviour:
     Path: event:/SFX_Player/SFX_Player_Hurt
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -991984056
+      Data2: 1214356249
+      Data3: 120415874
+      Data4: -1967432601
+    Path: event:/SFX_Objects/SFX_Destructable_Door
   pickupHealth:
     Guid:
       Data1: -26963260
@@ -495,11 +495,11 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -589594065
+      Data2: 1162917053
+      Data3: -1917211771
+      Data4: -1510733772
+    Path: event:/SFX_Enemy/SFX_Enemy_Spit
   enemyMelee:
     Guid:
       Data1: -964370836
