@@ -460,11 +460,11 @@ MonoBehaviour:
     Path: 
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1229079335
+      Data2: 1340903061
+      Data3: 1598115982
+      Data4: -336212758
+    Path: event:/SFX_Ambiance/Acid_Pool_Splash
   boxPush:
     Guid:
       Data1: -1653193235
