@@ -502,11 +502,11 @@ MonoBehaviour:
     Path: 
   enemyMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -964370836
+      Data2: 1287950524
+      Data3: 534683809
+      Data4: -970124529
+    Path: event:/SFX_Enemy/SFX_Bite_Attack
   enemyDeath:
     Guid:
       Data1: -2028211852
