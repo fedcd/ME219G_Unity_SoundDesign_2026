@@ -51,3 +51,9 @@ MonoBehaviour:
     parameter: 
     targetValue: 0
     saveParam: 0
+  - emitter: {fileID: 0}
+    tag: 
+    action: 0
+    parameter: 
+    targetValue: 0
+    saveParam: 0
