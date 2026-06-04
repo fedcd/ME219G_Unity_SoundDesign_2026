@@ -69583,7 +69583,7 @@ PrefabInstance:
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossShield.Path
-      value: 
+      value: event:/SFX_Boss/SFX_Boss_Shield
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
@@ -69608,7 +69608,7 @@ PrefabInstance:
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossSteamStage.Path
-      value: 
+      value: event:/SFX_Boss/SFX_Boss_SteamStage
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
@@ -69643,22 +69643,22 @@ PrefabInstance:
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossShield.Guid.Data1
-      value: 0
+      value: -278911074
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossShield.Guid.Data2
-      value: 0
+      value: 1094451580
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossShield.Guid.Data3
-      value: 0
+      value: -1381642055
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossShield.Guid.Data4
-      value: 0
+      value: -370038557
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
@@ -69673,22 +69673,22 @@ PrefabInstance:
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossSteamStage.Guid.Data1
-      value: 0
+      value: 759456853
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossSteamStage.Guid.Data2
-      value: 0
+      value: 1112853266
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossSteamStage.Guid.Data3
-      value: 0
+      value: -1764709702
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
       propertyPath: bossSteamStage.Guid.Data4
-      value: 0
+      value: 687180226
       objectReference: {fileID: 0}
     - target: {fileID: 4256432018734796894, guid: 056286e10563bf64cae51e44c59f8d93,
         type: 3}
